@@ -7,6 +7,7 @@ Edition: Zanardi (51 produced)
 Instance: #04  
 VIN: `JH4NA2123XT000130`
 Status: Active  
+Philosophy: Preservation-first, driven, reversible-only modifications, use it or lose it  
 
 ## Record coverage (from Fleet Mgmt spreadsheet)
 - Fuel / usage log: 2006-10-20 → 2025-12-10
@@ -25,10 +26,21 @@ Status: Active
 Append-only stewardship log derived from Fleet Mgmt records.
 Chronological, honest, intentionally under-structured.
 
-## How to read
-- Monthly files aggregate dated events
-- Each entry preserves original row values as recorded
+## How to read this folder
+- One event per file
+- Dates reflect event dates, not write dates
+- Facts, observations, and incidents are explicitly labeled
+- Gaps are allowed and visibles as recorded
 - Notes are not normalized or corrected
+
+## Boundaries / ethos
+- Reversible modifications only
+- OEM parts retained when removed
+- Track use permitted; abuse not tolerated
+- Patina is acceptable; neglect is not
+
+## Known quirks (non-exhaustive)
+- See dated observation files
 
 ## Links
 - Media index: [./media/gdrive-index.md](media/gdrive-index.md)
