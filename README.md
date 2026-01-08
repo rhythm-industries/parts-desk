@@ -32,7 +32,7 @@ fleet/
 │   └── <asset>/       # append-only, chronological logs
 ├── registry/          # registry of parts, artifacts, memorabilia
 └── _index/            # awareness layers (coverage, inventories)
-````
+```
 
 Patterns repeat deliberately.
 
@@ -42,12 +42,12 @@ Patterns repeat deliberately.
 
 - [1999 Acura NSX Zanardi Edition — #04](./fleet/vehicles/1999-acura-nsx-zanardi-04/)  
   Contains:
-  - [README.md](./fleet/vehicles/1999-acura-nsx-zanardi-04/README.md)  stable identity + boundaries
+  - [README.md](./fleet/vehicles/1999-acura-nsx-zanardi-04/README.md) stable identity + boundaries
   - `YYYY-MM.md` — monthly aggregated event logs (fuel, usage)
   - [coverage.md](./fleet/vehicles/1999-acura-nsx-zanardi-04/coverage.md) — continuity, gaps, audit surface
   - [media/](./fleet/vehicles/1999-acura-nsx-zanardi-04/media/) — indexed external artifacts (not embedded)
 - "2012 Lexus LFA #165" `fleet/vehicles/lexus-lfa-165/` - Placeholder (intentionally empty for now)
-- "2005 Toyota Tacoma Prerunner" `fleet/vehicles/toyota-tacoma/` - Placeholder (intentionally empty for now)
+- [2005 Toyota Tacoma Prerunner](./fleet/vehicles/2005-toyota-tacoma-prerunner-hero/README.md) - Placeholder (intentionally empty for now)
 - "2024 Subaru WRX" `fleet/vehicles/subaru-wrx/` - Placeholder (intentionally empty for now)
 
 ## Registry
