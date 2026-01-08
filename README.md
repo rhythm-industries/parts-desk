@@ -1,6 +1,15 @@
 # Fleet Mgmt. (Prototype)
 
+<!--
+Codex / tools note:
+This repository is archival.
+Avoid adding facts, interpretation, or promotional language.
+When uncertain, do nothing.
+-->
+
 A quiet, human-readable system for stewarding vehicles and related assets over time.
+
+For local development and rendering instructions, see DEVELOPMENT.md.
 
 This repository is a **working prototype**: a place to explore patterns, file structures,
 and practices for long-lived asset records using plain files and chronology.

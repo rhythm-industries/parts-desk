@@ -62,18 +62,18 @@ capacities) is provided in a separate document:
 - Location: TODO (city/state)
 - Date Recorded: YYYY-MM-DD
 
+## Listing text (verbatim)
 
 **2005 Tacoma Toyota** pickup Prerunner 2WD V6 200,000 miles. Everything works; Bulletproof reliability; Towing package, Bluetooth Pioneer radio, aftermarket bronze alloy wheels, upsized tires $12,250
 
-
-210,000 miles
-VIN: 5TETU62N35Z002989
-Clean title in hand
+210,000 miles  
+VIN: 5TETU62N35Z002989  
+Clean title in hand  
 $12,250
 
 This truck will outlast 99% of what you see on the road. I've had it 10+ years and it's proven to have bulletproof reliability. Includes towing package, Pioneer Bluetooth radio, aftermarket bronze alloy wheels with upsized tires
 
-Reliable. Quietly noble. It carried weight without complaint.
+Reliable. Quietly noble. It carried weight without complaint.  
 Now it gets to be someone else’s loyal companion.
 
 ## Record coverage (from Fleet Mgmt spreadsheet)
@@ -83,19 +83,15 @@ Now it gets to be someone else’s loyal companion.
 - REF: <https://www.notion.so/fleet-mgmt/2005-Toyota-Tacoma-Prerunner-V6-3c7c3453258049d99bc10884b34a08e5?source=copy_link>
 - Search Notion for "Tacoma" You'll find…
 
-    I found several Tacoma-related items in your fleet management workspace:
+  I found several Tacoma-related items in your fleet management workspace:
 
-    - **2005 Toyota Tacoma Prerunner V6** - This appears to be a vehicle in your fleet with documentation about repairs, including work on the overhead temperature/compass display unit. [[1]](https://www.notion.so/3c7c3453258049d99bc10884b34a08e5) [[2]](https://www.notion.so/e402dd58e1fa4714b78407fcefd757d3)
+  - **2005 Toyota Tacoma Prerunner V6** - This appears to be a vehicle in your fleet with documentation about repairs, including work on the overhead temperature/compass display unit. [[1]](https://www.notion.so/3c7c3453258049d99bc10884b34a08e5) [[2]](https://www.notion.so/e402dd58e1fa4714b78407fcefd757d3)
+  - **Tacoma tips and modifications** - You have a knowledge base page with second-generation Tacoma tips, mods, and information including ABS disable procedures. [[3]](https://www.notion.so/18153fb26812800d8312c97ad8a12e15)
+  - **For sale listings** - There's a 2005 Tacoma PreRunner 2WD V6 with 200,000 miles listed in your trading post inventory. [[4]](https://www.notion.so/18153fb2681280588a2ce43d5c6e7539)
+  - **Parts and accessories** - You've tracked a Toyota Tacoma tailgate extender listing from Craigslist. [[5]](https://www.notion.so/1504e02e894a42ab82e5cec1f8c9b537)
+  - **Fleet management services** - References to "Tacoma Battle Tested" content and Top Gear videos about Toyota durability. [[6]](https://www.notion.so/0e63b99b12cd4234ad37bebdb5d35915)
 
-    - **Tacoma tips and modifications** - You have a knowledge base page with second-generation Tacoma tips, mods, and information including ABS disable procedures. [[3]](https://www.notion.so/18153fb26812800d8312c97ad8a12e15)
-
-    - **For sale listings** - There's a 2005 Tacoma PreRunner 2WD V6 with 200,000 miles listed in your trading post inventory. [[4]](https://www.notion.so/18153fb2681280588a2ce43d5c6e7539)
-
-    - **Parts and accessories** - You've tracked a Toyota Tacoma tailgate extender listing from Craigslist. [[5]](https://www.notion.so/1504e02e894a42ab82e5cec1f8c9b537)
-
-    - **Fleet management services** - References to "Tacoma Battle Tested" content and Top Gear videos about Toyota durability. [[6]](https://www.notion.so/0e63b99b12cd4234ad37bebdb5d35915)
-
-    Is there something specific about any of these Tacomas you'd like to know more about?
+  Is there something specific about any of these Tacomas you'd like to know more about?
 
 ## Reference notes (carried forward)
 
@@ -112,7 +108,7 @@ Now it gets to be someone else’s loyal companion.
 - [Manuals (toyota.com)](https://www.toyota.com/owners/warranty-owners-manuals/vehicle/tacoma/2005/)
 - [Brochure (archive.org)](https://archive.org/details/toyota-tacoma-truck-brochure-2005) - downloadable
 - GDrive folder: <https://drive.google.com/drive/folders/1L8M2qoIJc4qwzmIQ_DT0C-zpE0UDUz2p?usp=drive_link>
-open index.html on local machine (not from drive.google.com page), browseable pages with links to PDFs appear.
+- Note: open index.html on local machine (not from drive.google.com page); browseable pages with links to PDFs appear.
 
 ## Links
 
@@ -161,7 +157,8 @@ See private Cloud Photos albums:
 - `/2025/REI Simplify, Lightness`
 - 2025-02-07 (week of), "Regulated mail / package thieves. What a story - the way Tacoma and I blocked the exit. Totally a movie scene and #TacomaFlex Deep as well - earlier was saying how I'm not a truck person - just want sexy Japanese or happy German cars. Then Tacoma called to action." - SEE: IG story
 - ~2023-09-23 "The virtues of low-tech solutions. (think: Tacoma bailing wire)" SEE: IG story
-
+- License plate `1T4C05` reads "I ❤️ Tacos"
+ 
 ## Additional
 
 - Search personal Journal/Obsidian for "Tacoma"

@@ -1,0 +1,16 @@
+# Core identity
+title: Fleet Mgmt.
+timezone: America/Chicago
+description: A quiet, human-readable system for stewarding vehicles and related assets over time — emphasizing provenance, care, and continuity over optimization or resale.
+
+# Serving
+port: 5319
+host: 127.0.0.1
+incremental: true
+
+safe: false
+plugins: []
+
+collections:
+  records:
+    output: true

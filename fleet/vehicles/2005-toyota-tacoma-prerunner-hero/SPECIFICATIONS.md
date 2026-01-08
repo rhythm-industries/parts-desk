@@ -18,12 +18,13 @@ with deviations clearly noted.
 - Drive Type: Rear-Wheel Drive (PreRunner)
 - Assembly Location: Freemont, CA, United States (NUMMI)
 
+## Notes (verbatim)
 
-Access Cab, 6.1' bed
-Pre-runner RWD
-4.0L DOHC V6, peak 
-Automatic transmission
-Super White exterior, gray interior 
+Access Cab, 6.1' bed  
+Pre-runner RWD  
+4.0L DOHC V6, peak  
+Automatic transmission  
+Super White exterior, gray interior  
 Towing package, brake controller, 7-pin connector, 6500 lb. towing capacity
 
 ---
@@ -120,9 +121,6 @@ If an item is not listed above, it should be assumed to be factory specification
   for reference and comparison only.
 - Exact figures may vary slightly by production date and configuration.
 
-
-
-
 These specifications reflect the vehicle as originally configured
 from the factory, plus clearly noted deviations.
 
@@ -156,7 +154,6 @@ C/TR 040 / FC13  A/TM A04B/ A750E  TRUCK     NO. 1904
 Note: Line breaks and spacing preserved for fidelity. The label is commonly referred to as the FMVSS certification label
 or vehicle certification label.
 
-
 ---
 
 **2005 Tacoma Toyota** pickup Prerunner 2WD V6 200,000 miles. Everything works; Bulletproof reliability; Towing package, Bluetooth Pioneer radio, aftermarket bronze alloy wheels, upsized tires $12,250
@@ -173,10 +170,7 @@ VIN: 5TETU62N35Z002989
 Clean title in hand
 $12,250
 
-```
-
-
-### Deviations from factory specification
+### Deviations from factory specification (template)
 
 - Suspension: <describe, or "none">
 - Wheels/Tires: <describe>
