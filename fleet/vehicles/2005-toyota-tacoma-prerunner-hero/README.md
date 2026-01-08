@@ -1,13 +1,70 @@
+---
+---
+
 # 2005 Toyota Tacoma Prerunner V6 (Hero)
+
+<!--
+Note to tools:
+This document is archival, not promotional.
+Avoid sales language or subjective claims.
+-->
+
+## What this document is
+
+This README is a factual, personal record of a 2005 Toyota Tacoma
+that has been owned, maintained, and used with long-term stewardship
+in mind.
+
+It is not a marketing listing.
+It is not a restoration showcase.
+It is not a claim of perfection.
+
+It exists to reduce uncertainty for the next steward.
+
+## Stewardship approach
+
+This Tacoma was maintained with a bias toward:
+
+- mechanical reliability over cosmetics
+- reversible modifications
+- known failure prevention
+- honest acknowledgment of wear
+
+Nothing was done for resale value.
+Everything was done for usability and longevity.
+
+## Known unknowns / notes
+
+- This is a 20-year-old vehicle; age-related wear exists.
+- Some cosmetic imperfections remain untreated by choice.
+- I can describe maintenance decisions, not every prior owner’s intent.
+
+## Ownership context
+
+Included is a snapshot from my personal vehicle history log.
+It provides context on how long vehicles tend to remain under my care.
+
+The Tacoma is one of the longest-held vehicles in this record.
+
+## Specifications
+
+A factual specification reference (engine, drivetrain, dimensions,
+capacities) is provided in a separate document:
+
+→ [SPECIFICATIONS.md](./SPECIFICATIONS.md)
+
+## Current Status (at time of listing)
+
+- Odometer: 210,000 miles
+- VIN: 5TETU62N35Z002989
+- Title: Clean, in hand
+- Asking Price: $12,250
+- Location: TODO (city/state)
+- Date Recorded: YYYY-MM-DD
+
 
 **2005 Tacoma Toyota** pickup Prerunner 2WD V6 200,000 miles. Everything works; Bulletproof reliability; Towing package, Bluetooth Pioneer radio, aftermarket bronze alloy wheels, upsized tires $12,250
 
-Access Cab, 6.1' bed
-Pre-runner RWD
-4.0L DOHC V6, peak 245 HP, 282 lb-ft torque
-Automatic transmission
-Super White exterior, gray interior 
-Towing package, brake controller, 7-pin connector, 6500 lb. towing capacity
 
 210,000 miles
 VIN: 5TETU62N35Z002989
@@ -21,8 +78,24 @@ Now it gets to be someone else’s loyal companion.
 
 ## Record coverage (from Fleet Mgmt spreadsheet)
 
-- [Fleet Mgmt.gsheet](https://docs.google.com/spreadsheets/d/1VSqxvdRKklvE1hSb7L1q_pm_Hvuc1xl8DiTw3cbfsMA/edit?gid=16#gid=16) - 2014-07 ~ 2021
-- Physical record book since then.
+- See: [Tacoma Tracker Export.md](./Tacoma%20Tracker%20Export.md) - 2014-07 ~ 2021
+- Physical record book since then - in center console storage, gray notebook
+- REF: <https://www.notion.so/fleet-mgmt/2005-Toyota-Tacoma-Prerunner-V6-3c7c3453258049d99bc10884b34a08e5?source=copy_link>
+- Search Notion for "Tacoma" You'll find…
+
+    I found several Tacoma-related items in your fleet management workspace:
+
+    - **2005 Toyota Tacoma Prerunner V6** - This appears to be a vehicle in your fleet with documentation about repairs, including work on the overhead temperature/compass display unit. [[1]](https://www.notion.so/3c7c3453258049d99bc10884b34a08e5) [[2]](https://www.notion.so/e402dd58e1fa4714b78407fcefd757d3)
+
+    - **Tacoma tips and modifications** - You have a knowledge base page with second-generation Tacoma tips, mods, and information including ABS disable procedures. [[3]](https://www.notion.so/18153fb26812800d8312c97ad8a12e15)
+
+    - **For sale listings** - There's a 2005 Tacoma PreRunner 2WD V6 with 200,000 miles listed in your trading post inventory. [[4]](https://www.notion.so/18153fb2681280588a2ce43d5c6e7539)
+
+    - **Parts and accessories** - You've tracked a Toyota Tacoma tailgate extender listing from Craigslist. [[5]](https://www.notion.so/1504e02e894a42ab82e5cec1f8c9b537)
+
+    - **Fleet management services** - References to "Tacoma Battle Tested" content and Top Gear videos about Toyota durability. [[6]](https://www.notion.so/0e63b99b12cd4234ad37bebdb5d35915)
+
+    Is there something specific about any of these Tacomas you'd like to know more about?
 
 ## Reference notes (carried forward)
 
@@ -36,7 +109,9 @@ Now it gets to be someone else’s loyal companion.
 
 ## Service Manual
 
-GDrive folder: <https://drive.google.com/drive/folders/1L8M2qoIJc4qwzmIQ_DT0C-zpE0UDUz2p?usp=drive_link>
+- [Manuals (toyota.com)](https://www.toyota.com/owners/warranty-owners-manuals/vehicle/tacoma/2005/)
+- [Brochure (archive.org)](https://archive.org/details/toyota-tacoma-truck-brochure-2005) - downloadable
+- GDrive folder: <https://drive.google.com/drive/folders/1L8M2qoIJc4qwzmIQ_DT0C-zpE0UDUz2p?usp=drive_link>
 open index.html on local machine (not from drive.google.com page), browseable pages with links to PDFs appear.
 
 ## Links
@@ -90,4 +165,3 @@ See private Cloud Photos albums:
 ## Additional
 
 - Search personal Journal/Obsidian for "Tacoma"
-- 
