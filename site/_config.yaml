@@ -1,7 +1,7 @@
 # Core identity
-title: Fleet Mgmt.
+title: Parts Deskt.
 timezone: America/Chicago
-description: A quiet, human-readable system for stewarding vehicles and related assets over time — emphasizing provenance, care, and continuity over optimization or resale.
+description: Instruments, components, and artifacts offered with clarity and care.
 
 # Serving
 port: 5319
@@ -10,6 +10,7 @@ incremental: true
 
 safe: false
 plugins: []
+layout: ria
 
 collections:
   records:
