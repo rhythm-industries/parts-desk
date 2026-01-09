@@ -1,6 +1,6 @@
 @font-face {
   font-family: 'Michroma';
-  src: url(/assets/fonts/michroma-v21-latin-regular.woff2) format("woff2"), url(/assets/fonts/michroma-v21-latin-regular.woff) format("woff");
+  src: url(../fonts/michroma-v21-latin-regular.woff2) format("woff2"), url(../fonts/michroma-v21-latin-regular.woff) format("woff");
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -8,8 +8,8 @@ h1, h2, h3, h4, h5, h6 {
   font-size: larger;
 }
 
-pre {
-  font-xfamily: times;
+pre.times {
+  font-family: times;
 }
 
 .desk {
